@@ -1,6 +1,4 @@
-# Advertisement-Campaign-A-B-Testing-Analysis
-
-Advertisement Campaign A/B Testing
+# Product Purchase Experimental Study (A/B Testing)
 
 1. Data analysis - Project Background
 
