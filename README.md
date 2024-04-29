@@ -8,13 +8,7 @@ This project is based on the data provided at https://www.kaggle.com/datasets/fa
 
 1.1 About Dataset
 
-Marketing A/B testing dataset Marketing companies want to run successful campaigns, but the market is complex and several options can work. To understand user behaviour, organisations collect data and analyse this through e.g.  A/B tests. This is a method used in marketing, product development, and experimentation to compare two versions to determine which one performs better. In A/B testing, the two versions are referred to as the control and the treatment group. The control group is the existing or standard version, whereas the treatment group receives a modified version being tested. The majority of the people will be exposed to ads (the experimental group). On the other hand, a small portion of people (the control group) instead see a Public Service Announcement (PSA)in the exact size and place the ad would normally be.
-
-
-IThis research aims to answer the following two questions:
-
-. Would the campaign be successful?
-- If the campaign was successful, how much of that success could be attributed to the ads?
+Marketing A/B testing dataset Marketing companies want to run successful campaigns, but the market is complex and several options can work. To understand user behaviour, organisations collect data and analyse this through e.g.  A/B tests. This is a method used in marketing, product development, and experimentation to compare two versions to determine which one performs better. In A/B testing, the two versions are referred to as the control and the treatment group. The control group is the existing or standard version, whereas the treatment group receives a modified version being tested. The majority of the people will be exposed to ads (the experimental group). On the other hand, a small portion of people (the control group) instead see a Public Service Announcement (PSA) in the exact size and place the ad would normally be.
 
 The idea of the dataset is to analyse the groups, find if the ads were successful, how much the company can make from the ads, and if the difference between the groups is statistically significant.
 
